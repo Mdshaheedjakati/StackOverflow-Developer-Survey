@@ -1,0 +1,11 @@
+Based on the demographics of the survey respondents, we can infer that the survey is somewhat representative of the overall programming community, although it definitely has fewer responses from programmers in non-English-speaking countries and from women & non-binary genders.
+
+The programming community is not as diverse as it can be, and although things are improving, we should take more efforts to support & encourage members of underrepresented communities - whether it is in terms of age, country, race, gender or otherwise.
+
+Most programmers hold a college degree, although a fairly large percentage did not have computer science as their major in college, so a computer science degree isn't compulsory for learning to code or building a career in programming.
+
+A significant percentage of programmers either work part time or as freelancers, and this can be a great way to break into the field, especially when you're just getting started.
+
+Javascript & HTML/CSS are the most used programming languages in 2020, closely followed by SQL & Python.
+
+Python is the language most people are interested in learning - since it is an easy-to-learn general purpose programming language well suited for a variety of domains.
